@@ -1,7 +1,222 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bf66d32-0adf-487d-b03a-56212c63c03f" name="Default Changelist" comment="" />
+    <list default="true" id="9bf66d32-0adf-487d-b03a-56212c63c03f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseSecao3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseSecao4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseSecao4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseSecao4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseSecao4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao11trabalhandoDatas/target/classes/course/date/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao11trabalhandoDatas/target/classes/course/manipulaData/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/aplication/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entities/Departament.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entities/HourContract.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entities/Worker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entities/enums/WorkerLevel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao13enum/target/classes/application/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao13enum/target/classes/entites/enums/OrderStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao13enum/target/classes/entities/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao14Heranca/.idea/dictionaries/antun.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao14Heranca/src/main/java/polimorfismoAplication/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao14Heranca/src/main/java/polimorfismoEntities/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao14Heranca/src/main/java/polimorfismoEntities/OutsourcedEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao14Heranca/target/classes/polimorfismoAplication/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao14Heranca/target/classes/polimorfismoEntities/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao14Heranca/target/classes/polimorfismoEntities/OutsourcedEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao14Heranca/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao15tratamentoExcecoes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao15tratamentoExcecoes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao15tratamentoExcecoes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao15tratamentoExcecoes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao15tratamentoExcecoes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao15tratamentoExcecoes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao15tratamentoExcecoes/secao15tratamentoExcecoes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao15tratamentoExcecoes/src/main/java/Application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao15tratamentoExcecoes/src/main/java/applicationFinally/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao15tratamentoExcecoes/src/main/java/tratamentoExceptionSolucaoMenosRuim/entities/DomainException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao15tratamentoExcecoes/src/main/java/tratamentoExceptionSolucaoMenosRuim/entities/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao15tratamentoExcecoes/src/main/java/tratamentoExceptionSolucaoMenosRuim/program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao15tratamentoExcecoes/src/main/java/tratamentoExceptionSolucaoRuim/entities/DomainException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao15tratamentoExcecoes/src/main/java/tratamentoExceptionSolucaoRuim/program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao15tratamentoExcecoes/src/test/java/Application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao15tratamentoExcecoes/target/classes/Application/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao15tratamentoExcecoes/target/classes/applicationFinally/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao15tratamentoExcecoes/target/test-classes/Application/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18defenderMethods/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18defenderMethods/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18defenderMethods/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18defenderMethods/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18defenderMethods/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18defenderMethods/secao18defenderMethods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18defenderMethods/src/main/java/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18defenderMethods/src/main/java/applicationDefender/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18defenderMethods/src/main/java/services/BrazilInterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18defenderMethods/src/main/java/services/InterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18defenderMethods/src/main/java/services/UsaInterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18defenderMethods/src/main/java/servicesDefender/BrazilInterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18defenderMethods/src/main/java/servicesDefender/InterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18defenderMethods/src/main/java/servicesDefender/UsaInterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18exercicioFixacao/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18exercicioFixacao/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18exercicioFixacao/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18exercicioFixacao/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18exercicioFixacao/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18exercicioFixacao/secao18exercicioFixacao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18exercicioFixacao/src/main/java/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18exercicioFixacao/src/main/java/entities/Contract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18exercicioFixacao/src/main/java/entities/Installment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18exercicioFixacao/src/main/java/services/ContractService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18exercicioFixacao/src/main/java/services/OnlinePaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18exercicioFixacao/src/main/java/services/PaypalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceComClassAbstrata/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceComClassAbstrata/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceComClassAbstrata/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceComClassAbstrata/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceComClassAbstrata/secao18interfaceComClassAbstrata.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceComClassAbstrata/src/main/java/model/entities/AbstractShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceComparable/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceComparable/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceComparable/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceComparable/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceComparable/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceComparable/src/main/java/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceComparable/src/main/java/application/Program2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceComparable/src/main/java/entities/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceHerdarXcontrato/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceHerdarXcontrato/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceHerdarXcontrato/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceHerdarXcontrato/.idea/secao18interfaceHerdarXcontrato.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceHerdarXcontrato/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceHerdarXcontrato/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceHerdarXcontrato/secao18interfaceHerdar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceHerdarXcontrato/src/main/java/Applicatiom/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceHerdarXcontrato/src/main/java/model/entities/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceHerdarXcontrato/src/main/java/model/entities/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceHerdarXcontrato/src/main/java/model/entities/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaceHerdarXcontrato/src/main/java/model/enums/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaces/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaces/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaces/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaces/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaces/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaces/secao18interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaces/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaces/src/main/java/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaces/src/main/java/model/entities/CarRental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaces/src/main/java/model/entities/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaces/src/main/java/model/entities/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaces/src/main/java/model/service/BrazilTaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfaces/src/main/java/model/service/RentalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/src/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/src/main/java/.idea/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/src/main/java/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/src/main/java/model/entities/CarRental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/src/main/java/model/entities/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/src/main/java/model/entities/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/src/main/java/model/service/BrazilTaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/src/main/java/model/service/RentalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/src/main/java/model/service/TaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/target/classes/application/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/target/classes/model/entities/CarRental.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/target/classes/model/entities/Invoice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/target/classes/model/entities/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/target/classes/model/service/BrazilTaxService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/target/classes/model/service/RentalService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19Map/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19Map/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19Map/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19Map/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19Map/secao19Map.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19Map/src/main/java/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19Map/src/main/java/application/ProgramComClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19Map/src/main/java/application/ProgramExercicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19Map/src/main/java/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19curingasDeliitados/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19curingasDeliitados/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19curingasDeliitados/.idea/dictionaries/antun.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19curingasDeliitados/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19curingasDeliitados/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19curingasDeliitados/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19curingasDeliitados/secao19curingasDellimitados.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19curingasDeliitados/src/main/java/curingaDelimitadoCaso1/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19curingasDeliitados/src/main/java/curingaDelimitadoCaso1/entities/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19curingasDeliitados/src/main/java/curingaDelimitadoCaso1/entities/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19curingasDeliitados/src/main/java/curingaDelimitadoCaso1/entities/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19curingasDeliitados/src/main/java/curingaDelimitadoCaso2/application/ProgramContravariancia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19curingasDeliitados/src/main/java/curingaDelimitadoCaso2/application/ProgramCovariance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19curingasDeliitados/src/main/java/curingaDelimitadoSolucaoDoCaso/application/ProgramSolucaoDoCaso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19genericosDelimitados/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19genericosDelimitados/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19genericosDelimitados/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19genericosDelimitados/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19genericosDelimitados/secao19genericosDelimitados.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19genericosDelimitados/src/main/java/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19genericosDelimitados/src/main/java/applicationCuringa/ProgramCuringa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19genericosDelimitados/src/main/java/applicationDelimitado/ProgramDelimitado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19genericosDelimitados/src/main/java/entitiesDelimitado/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19genericosDelimitados/src/main/java/service/CalculationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19genericosDelimitados/src/main/java/serviceDelimitado/CalculationServiceDelimitado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19genericsIntroducao/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19genericsIntroducao/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19genericsIntroducao/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19genericsIntroducao/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19genericsIntroducao/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19genericsIntroducao/secao19genericsIntroducao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19genericsIntroducao/src/main/java/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19genericsIntroducao/src/main/java/applicationGeneric/ProgramGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19genericsIntroducao/src/main/java/services/PrintService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19genericsIntroducao/src/main/java/servicesGeneric/PrintServiceGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19hashCodeEequal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19hashCodeEequal/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19hashCodeEequal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19hashCodeEequal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19hashCodeEequal/secao19hashCodeEequal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19hashCodeEequal/src/main/java/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19hashCodeEequal/src/main/java/entities/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19hashCodeEequal/src/main/java/exercicioResolvidoSet/apllication/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19hashCodeEequal/src/main/java/exercicioResolvidoSet/apllication/Program2comClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19hashCodeEequal/src/main/java/exercicioResolvidoSet/apllication/ProgramExercicioFixacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19hashCodeEequal/src/main/java/exercicioResolvidoSet/entities/LogEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao19hashCodeEequal/src/main/java/operacoesDeListaComSet/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/.idea/src.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../secao18interfacesComInterface/src/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../secao18interfaceComparable/secao18interfaceComparable.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseSecao2" beforeDir="false" afterPath="$PROJECT_DIR$/../courseSecao2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseSecao3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../courseSecao3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secao11trabalhandoDatas/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../secao11trabalhandoDatas/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secao11trabalhandoDatas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../secao11trabalhandoDatas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secao11trabalhandoDatas/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../secao11trabalhandoDatas/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secao11trabalhandoDatas/target/classes/META-INF/courseSecao11trabalhandoDatas.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secao13enum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../secao13enum/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secao14Heranca/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../secao14Heranca/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secao14Heranca/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../secao14Heranca/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secao14Heranca/src/main/java/herancaApplication/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../secao14Heranca/src/main/java/herancaApplication/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secao14Heranca/src/main/java/herancaEntities/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../secao14Heranca/src/main/java/herancaEntities/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secao14Heranca/src/main/java/herancaEntities/BusinessAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../secao14Heranca/src/main/java/herancaEntities/BusinessAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secao14Heranca/src/main/java/herancaEntities/SavingsAcount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../secao14Heranca/src/main/java/herancaEntities/SavingsAcount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secao14Heranca/target/classes/herancaApplication/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/../secao14Heranca/target/classes/herancaApplication/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secao14Heranca/target/classes/herancaEntities/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/../secao14Heranca/target/classes/herancaEntities/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secao14Heranca/target/classes/herancaEntities/BusinessAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../secao14Heranca/target/classes/herancaEntities/BusinessAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secao14Heranca/target/classes/herancaEntities/SavingsAcount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../secao14Heranca/target/classes/herancaEntities/SavingsAcount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secao14Heranca/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../secao14Heranca/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +231,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1RAmAy1tC640d4bXcs60Cf0a5yf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -75,5 +294,16 @@
       <updated>1569118134776</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

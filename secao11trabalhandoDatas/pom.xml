@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>br.com.udemy</groupId>
-    <artifactId>courseSecao11</artifactId>
+    <artifactId>secao11</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>courseSecao11</name>
+    <name>secao11</name>
     <url>http://maven.apache.org</url>
 
     <properties>

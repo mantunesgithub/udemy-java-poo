@@ -17,7 +17,7 @@ public class BusinessAccount extends Account {
         return loanlimit;
     }
 
-    public void setLoanlimit(Double loanlimit) {
+    public void setLoanlimit (Double loanlimit) {
         this.loanlimit = loanlimit;
     }
     public void loan (double amount) {
@@ -26,9 +26,9 @@ public class BusinessAccount extends Account {
             deposit(amount);
         }
     }
-
-
-
-
-
+    @Override
+    public void  withdraw (double amount){
+       super.withdraw(amount);
+       balance -= 2.00;
+    }
 }

@@ -18,12 +18,13 @@ public class Program {
 //      DOWNCASTING = Converter um obj da superclasse para subclasse
 //        BusinessAccount acc4 = acc2;
 //        nao posso converter de account para businessAccount a menos que force com castin
+
         BusinessAccount acc4 = (BusinessAccount) acc2;
         acc4.loan(100.00);
 
 //      Compilador deixa mas da problema na execucao exemplo abaixo: Porque o SavingAccount não é um
 //      BusinnessAccount. Entao temos que verificar a Instancia
-
+//
 
         if ( acc3 instanceof BusinessAccount ){
             BusinessAccount acc5 = (BusinessAccount) acc3;
@@ -35,5 +36,16 @@ public class Program {
             acc5.updateBalance();
             System.out.println("Upadate!");
         }
+        Account account = new Account(1000, "JOAO",1000.00);
+        account.withdraw(200.00);
+        System.out.println(account.getBalance());
+
+        Account sac = new SavingsAcount(1004,"Anna",1000.00,0.01);
+        sac.withdraw(200.00);
+        System.out.println(sac.getBalance());
+
+        Account sac2 = new BusinessAccount(1005,"Bananna",1000.00,0.01);
+        sac2.withdraw(200.00);
+        System.out.println(sac2.getBalance());
     }
 }

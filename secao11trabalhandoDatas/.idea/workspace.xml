@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c12b7a1f-544f-4b78-ac9e-3995c193c546" name="Default Changelist" comment="" />
+    <list default="true" id="c12b7a1f-544f-4b78-ac9e-3995c193c546" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secao13enum/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseSecao2" beforeDir="false" afterPath="$PROJECT_DIR$/../courseSecao2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courseSecao11trabalhandoDatas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/secao11trabalhandoDatas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/courseSecao11trabalhandoDatas.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secao13enum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../secao13enum/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +27,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1RFgZJj9LYGThrkToNPdusKGfwF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -36,13 +52,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Program (1)">
+  <component name="RunManager" selected="Application.Program (2)">
     <configuration name="Program (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="course.manipulaData.Program" />
       <module name="courseSecao11trabalhandoDatas" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="course.manipulaData.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="course.date.Program" />
+      <module name="secao11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course.date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program (2)" />
         <item itemvalue="Application.Program (1)" />
         <item itemvalue="Application.Program" />
       </list>
@@ -82,5 +112,16 @@
       <updated>1569268311474</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
