@@ -2,63 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c12b7a1f-544f-4b78-ac9e-3995c193c546" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../secao2estruturasPrimitivas/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao2estruturasPrimitivas/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao2estruturasPrimitivas/secao2estruturasPrimitivas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao2estruturasPrimitivas/src/main/java/Application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao2estruturasPrimitivas/src/main/java/Application/Secao2AtiposPrimitivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao2estruturasPrimitivas/src/main/java/Application/Secao2BoperadoresComparativosElogicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao2estruturasPrimitivas/src/main/java/Application/Secao2CentradaDeDados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao2estruturasPrimitivas/src/main/java/Application/Secao2Destruturas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao2estruturasPrimitivas/src/main/java/Application/Secao2Efuncoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao3orientacaoObjeto/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao3orientacaoObjeto/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao3orientacaoObjeto/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao3orientacaoObjeto/secao3orientacaoObjeto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao4Account/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao4Account/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao4Account/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao4Account/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao4Account/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao4Account/secao4Account.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao5ListaMatrizes/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao5ListaMatrizes/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao5ListaMatrizes/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao5ListaMatrizes/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao5ListaMatrizes/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secao5ListaMatrizes/secao5ListaMatrizes.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao3/.idea/courseSecao3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../secao2estruturasPrimitivas/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao3/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao3/aplicationnaoOO/program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../secao3orientacaoObjeto/src/main/java/applicationNaoOo/program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao3/membrosEstaticos/aplication/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../secao3orientacaoObjeto/src/main/java/membrosEstaticos/aplication/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao3/membrosEstaticos/aplication/Program2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../secao3orientacaoObjeto/src/main/java/membrosEstaticos/aplication/Program2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao3/membrosEstaticos/aplication/util/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../secao3orientacaoObjeto/src/main/java/membrosEstaticos/aplication/util/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao3/orientacaoObjeto1/aplication/program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../secao3orientacaoObjeto/src/main/java/orientacaoObjeto1/aplication/program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao3/orientacaoObjeto1/entities/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../secao3orientacaoObjeto/src/main/java/orientacaoObjeto1/entities/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao3/orientacaoObjeto2/aplication/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../secao3orientacaoObjeto/src/main/java/orientacaoObjeto2/aplication/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao3/orientacaoObjeto2/aplication/Program2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../secao3orientacaoObjeto/src/main/java/orientacaoObjeto2/aplication/Program2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao3/orientacaoObjeto2/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../secao3orientacaoObjeto/src/main/java/orientacaoObjeto2/entities/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao4/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../secao2estruturasPrimitivas/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao4/.idea/courseSecao4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../secao3orientacaoObjeto/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao4/aplication/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../secao4Account/src/main/java/aplication/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao4/entities/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../secao4Account/src/main/java/entities/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao5/aplication/LacosForaech.java" beforeDir="false" afterPath="$PROJECT_DIR$/../secao5ListaMatrizes/src/main/java/aplication/LacosForaech.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao5/aplication/Listas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../secao5ListaMatrizes/src/main/java/aplication/Listas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao5/aplication/Matrizes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../secao5ListaMatrizes/src/main/java/aplication/Matrizes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao5/aplication/TiposBoxingEWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../secao5ListaMatrizes/src/main/java/aplication/TiposBoxingEWrapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao5/aplication/Vetores.java" beforeDir="false" afterPath="$PROJECT_DIR$/../secao5ListaMatrizes/src/main/java/aplication/Vetores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao5/aplication/program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../secao5ListaMatrizes/src/main/java/aplication/program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../courseSecao5/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../secao5ListaMatrizes/src/main/java/entities/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

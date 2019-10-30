@@ -5,7 +5,17 @@
       <change afterPath="$PROJECT_DIR$/secao14Heranca/src/main/java/polimorfismoAplication/Program.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/secao14Heranca/src/main/java/polimorfismoEntities/Employee.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/secao14Heranca/src/main/java/polimorfismoEntities/OutsourcedEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao25webSpringBootJpa/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao25webSpringBootJpa/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao25webSpringBootJpa/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao25webSpringBootJpa/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao25webSpringBootJpa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao25webSpringBootJpa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao25webSpringBootJpa/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao25webSpringBootJpa/secao25webSpringBootJpa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secao25webSpringBootJpa/src/main/java/com/udemy/course/CourseApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secao11trabalhandoDatas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/secao11trabalhandoDatas/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/secao14Heranca/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/secao14Heranca/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/secao14Heranca/src/main/java/herancaApplication/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/secao14Heranca/src/main/java/herancaApplication/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/secao14Heranca/src/main/java/herancaEntities/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/secao14Heranca/src/main/java/herancaEntities/Account.java" afterDir="false" />
